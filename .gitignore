@@ -1,0 +1,11 @@
+*.i
+*.ii
+*.gpu
+*.ptx
+*.cubin
+*.fatbin
+*.csv
+# C/C++ executables
+*.out
+*.o
+*.exe
